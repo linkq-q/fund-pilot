@@ -1,0 +1,6 @@
+streamlit
+akshare
+pandas
+requests
+apscheduler
+python-dotenv
